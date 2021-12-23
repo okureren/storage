@@ -1,1 +1,1 @@
-# working with localStorage in javascript
+# working with localStorage in JavaScript
